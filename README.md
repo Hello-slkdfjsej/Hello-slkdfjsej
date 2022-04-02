@@ -19,9 +19,10 @@ I mainly deal with robots and artificial intelligence.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+[^2]: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)
-<img src="https://img.shields.io/badge/-Matlab%20-blue?logo=Matrix&logoColor=white"/>
+[^3]: <img src="https://img.shields.io/badge/-Matlab%20-blue?logo=Matrix&logoColor=white"/>
+
 
 
 #### Team Work & Learning:
