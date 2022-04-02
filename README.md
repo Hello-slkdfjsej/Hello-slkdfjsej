@@ -1,9 +1,11 @@
 # YeonWoo kim
 
-Hello :)
+Hello :) 
+I'm YeonWoo kim😉
 
+I mainly deal with robots and artificial intelligence.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&duration=2000&color=AC23FF&lines=Machine+Learning;Intelligent+Machine+System;Mobility+System;Mechatronics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&color=AC23FF&lines=Machine+Learning;Intelligent+Machine+System;Mobility+System;Mechatronics)](https://git.io/typing-svg)
 
 #### For Design Mechanical Elements & Machine Hardware:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white)
