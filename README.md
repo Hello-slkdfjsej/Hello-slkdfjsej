@@ -5,10 +5,6 @@ I'm YeonWoo kim😉
 
 I mainly deal with robots and artificial intelligence.
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FS3LM0N&count_bg=%23628FDB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HIT&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&color=AC23FF&vCenter=true&height=30&lines=Machine+Learning;Intelligent+Machine+System;Mobility+System;Mechatronics)](https://git.io/typing-svg)
 #### For Design Mechanical Elements & Machine Hardware:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white)
@@ -38,3 +34,6 @@ I mainly deal with robots and artificial intelligence.
 ![S3LM0N's GitHub stats](https://github-readme-stats.vercel.app/api?username=S3LM0N&show_icons=false&theme=tokyonight)
 
 ![S3LM0N's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S3LM0N&layout=compact&theme=tokyonight)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FS3LM0N&count_bg=%23628FDB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HIT&edge_flat=false)](https://hits.seeyoufarm.com)
