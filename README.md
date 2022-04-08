@@ -1,4 +1,4 @@
-# Yeon Woo kim 👋
+# Yeon Woo im 👋
 
 Hello :) 
 I'm YeonWoo kim😉
