@@ -31,9 +31,8 @@ I mainly deal with robots and artificial intelligence.
 ![Google](https://img.shields.io/badge/google-4285F4?logo=google&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 
-![S3LM0N's GitHub stats](https://github-readme-stats.vercel.app/api?username=S3LM0N&show_icons=false&theme=tokyonight)
-
-![S3LM0N's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S3LM0N&layout=compact&theme=tokyonight)
+![S3LM0N's GitHub stats](https://github-readme-stats.vercel.app/api?username=S3LM0N&show_icons=false&theme=dark)
+![S3LM0N's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S3LM0N&layout=compact&theme=dark)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FS3LM0N&count_bg=%23628FDB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HIT&edge_flat=false)](https://hits.seeyoufarm.com)
